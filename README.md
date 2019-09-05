@@ -59,17 +59,48 @@ January 13 | 2 | Seminar Take Over - First years | TBA
 January 20 | 3 | Seminar Take Over - First years | TBA
 January 27 | 4 | Seminar Take Over - First years | TBA
 February 3 | 5 | Seminar Take Over - First years | TBA 
-February 10 | 5 |  | NA 
-February 17 | 6 | Reading Week | NA 
-February 24 | 7 |  | NA 
-March 2 | 8 |  | NA 
-March 9 | 9 |  | NA 
-March 16 | 10 |  | NA 
+February 10 | 5 | TBD | TBD 
+February 17 | 6 | Reading Week | TBD 
+February 24 | 7 | TBD | TBD 
+March 2 | 8 | TBD | TBD 
+March 9 | 9 | TBD | TBD 
+March 16 | 10 | TBD | TBD 
 March 23 | 11 | When I grow up | [https://www.mun.ca/student/about/career-development-contact.php](https://www.mun.ca/student/about/career-development-contact.php)
-March 30 | 12 | What I learned  | NA 
+March 30 | 12 | What I learned  | TBD 
 
 ## Term 3
 
+Date | Week | Topic | Readings 
+---- | ---- | ----- | -------- 
+ | 1 |  TBD| TBD 
+ | 2 | TBD | TBD 
+ | 3 | TBD | TBD
+ | 4 | TBD | TBD
+ | 5 | TBD | TBD 
+ | 5 | TBD | TBD 
+ | 6 | TBD | TBD 
+ | 7 | TBD | TBD 
+ | 8 | TBD | TBD 
+ | 9 | TBD | TBD 
+ | 10 | TBD | TBD 
+ | 11 | TBD | TBD
+ | 12 | TBD | TBD 
+
 ## Term 4
 
+Date | Week | Topic | Readings 
+---- | ---- | ----- | -------- 
+ | 1 |  TBD| TBD 
+ | 2 | TBD | TBD 
+ | 3 | TBD | TBD
+ | 4 | TBD | TBD
+ | 5 | TBD | TBD 
+ | 5 | TBD | TBD 
+ | 6 | TBD | TBD 
+ | 7 | TBD | TBD 
+ | 8 | TBD | TBD 
+ | 9 | TBD | TBD 
+ | 10 | TBD | TBD 
+ | 11 | TBD | TBD
+ | 12 | TBD | TBD 
 
