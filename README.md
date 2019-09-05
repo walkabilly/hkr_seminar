@@ -39,11 +39,11 @@ Date | Week | Topic | Readings
 September 2 | 1 | PIZZA!!! | NA 
 September 9 | 2 | Ethics Visit | NA 
 September 16 | 3 | Grad Studenting | Markowetz F. You Are Not Working For Me; I Am Working With you. PLOS Computational Biology. 2015 [https://doi.org/10.1371/journal.pcbi.1004387](https://doi.org/10.1371/journal.pcbi.1004387). 
-September 23 | 4 | How to read a paper | Lockyer EJ, Hosel K, Nippard AP, Button DC, Power KE. Corticospinal-Evoked Responses from the Biceps Brachii during Arm Cycling across Multiple Power Outputs. Brain Sciences. 2019; 9(8):205. [https://doi.org/10.3390/brainsci9080205](https://doi.org/10.3390/brainsci9080205) 
+September 23 | 4 | How to read a paper - Quant | Lockyer EJ, Hosel K, Nippard AP, Button DC, Power KE. Corticospinal-Evoked Responses from the Biceps Brachii during Arm Cycling across Multiple Power Outputs. Brain Sciences. 2019; 9(8):205. [https://doi.org/10.3390/brainsci9080205](https://doi.org/10.3390/brainsci9080205) 
 September 30 | 5 | Scholarship Applications | [https://www.mun.ca/sgs/current/funding/fundinginfo.php](https://www.mun.ca/sgs/current/funding/fundinginfo.php)
 October 7 | 6 | Poster Critique | Erren, T. C., & Bourne, P. E. (2007). Ten simple rules for a good poster presentation. PLoS computational biology, 3(5), e102. [https://doi.org/10.1371/journal.pcbi.0030102](https://doi.org/10.1371/journal.pcbi.0030102) 
 October 14 | 7 | How to write an abstract | Make a Great First Impression: 6 Tips for Writing a Strong Abstract [https://www.aje.com/arc/make-great-first-impression-6-tips-writing-strong-abstract/](https://www.aje.com/arc/make-great-first-impression-6-tips-writing-strong-abstract/)
-October 21 | 8 | TBD | TBD
+October 21 | 8 | How to read a paper - Qual | Alexander SA, Frohlich KL, Fusco C. (2014). Problematizing “play-for-health” discourses through children’s photo-elicited narratives. Qualitative Health Research, 24(10): 1239-1241. [http://qhr.sagepub.com/content/24/10/1329.long](http://qhr.sagepub.com/content/24/10/1329.long)  
 October 28 | 9 | TBD | TBD 
 November 4 | 10 | Lightning Talks - Second Years | Bourne PE (2007) Ten Simple Rules for Making Good Oral Presentations. PLoS Comput Biol 3(4): e77. [https://doi.org/10.1371/journal.pcbi.0030077](https://doi.org/10.1371/journal.pcbi.0030077)  | 
 November 11 | 11 | Lightning Talks - Second Years | NA 
@@ -53,12 +53,12 @@ November 18 | 12 | TBD | NA
 
 Date | Week | Topic | Readings 
 ---- | ---- | ----- | -------- 
-January 6 | 1 | How to read a paper | Fuller, D., Gauvin, L., Kestens, Y., Morency, P., Daniel, M., & Drouin, L. Impact evaluation of a public bicycle share program on cycling: A case example of BIXI in Montreal, Canada. American Journal of Public Health 103(3):e85-92. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3673500/
-January 13 | 2 | Seminar Take Over - First years | TBA 
-January 20 | 3 | Seminar Take Over - First years | TBA
-January 27 | 4 | Seminar Take Over - First years | TBA
-February 3 | 5 | Seminar Take Over - First years | TBA 
-February 10 | 6 | TBD | TBD 
+January 6 | 1 | How to read a paper - Quant | Fuller, D., Gauvin, L., Kestens, Y., Morency, P., Daniel, M., & Drouin, L. Impact evaluation of a public bicycle share program on cycling: A case example of BIXI in Montreal, Canada. American Journal of Public Health 103(3):e85-92. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3673500/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3673500/)
+January 13 | 2 | How to read a paper - Qual | Marconnot, R.; Marín-Rojas, A.L.; Delfa-de-la-Morena, J.M.; Pérez-Corrales, J. et al. Recognition of Barriers to Physical Activity Promotion in Immigrant Children in Spain: A Qualitative Case Study. Int. J. Environ. Res. Public Health 2019, 16, 431.  [https://doi.org/10.3390/ijerph16030431](https://doi.org/10.3390/ijerph16030431)
+January 20 | 3 | Seminar Take Over - First years | TBD
+January 27 | 4 | Seminar Take Over - First years | TBD
+February 3 | 5 | Seminar Take Over - First years | TBD 
+February 10 | 6 | Seminar Take Over - First years | TBD
 February 17 | 7 | Reading Week | TBD 
 February 24 | 8 | TBD | TBD 
 March 2 | 9 | TBD | TBD 
