@@ -70,11 +70,11 @@ March 23 | 12 | What I learned  | TBD
 
 Date | Week | Topic | Readings 
 ---- | ---- | ----- | -------- 
- | 1 |  TBD| TBD 
- | 2 | TBD | TBD 
- | 3 | TBD | TBD
- | 4 | TBD | TBD
- | 5 | TBD | TBD 
+ | 1 | PIZZA!!! | NA 
+ | 2 | Ethics Visit | NA 
+ | 3 | How to read a paper - Quant | TBD
+ | 4 | How to read a paper - Qual | TBD
+ | 5 | Scholarship Applications | [https://www.mun.ca/sgs/current/funding/fundinginfo.php](https://www.mun.ca/sgs/current/funding/fundinginfo.php) 
  | 6 | TBD | TBD 
  | 7 | TBD | TBD 
  | 8 | TBD | TBD 
@@ -88,8 +88,8 @@ Date | Week | Topic | Readings
 
 Date | Week | Topic | Readings 
 ---- | ---- | ----- | -------- 
- | 1 |  TBD| TBD 
- | 2 | TBD | TBD 
+ | 1 | You on the internet - part 1 | TBD 
+ | 2 | You on the internet - part 2 | TBD 
  | 3 | Seminar Take Over - First years | TBA
  | 4 | Seminar Take Over - First years | TBA
  | 5 | Seminar Take Over - First years | TBA 
@@ -99,5 +99,5 @@ Date | Week | Topic | Readings
  | 9 | TBD | TBD 
  | 10 | TBD | TBD 
  | 11 | TBD | TBD 
- | 12 | TBD | TBD
+ | 12 | What I learned | TBD
 
