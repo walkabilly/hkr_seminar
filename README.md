@@ -44,7 +44,7 @@ September 30 | 5 | Scholarship Applications | [https://www.mun.ca/sgs/current/fu
 October 7 | 6 | Poster Critique | Erren, T. C., & Bourne, P. E. (2007). Ten simple rules for a good poster presentation. PLoS computational biology, 3(5), e102. [https://doi.org/10.1371/journal.pcbi.0030102](https://doi.org/10.1371/journal.pcbi.0030102) 
 October 14 | 7 | How to write an abstract | Make a Great First Impression: 6 Tips for Writing a Strong Abstract [https://www.aje.com/arc/make-great-first-impression-6-tips-writing-strong-abstract/](https://www.aje.com/arc/make-great-first-impression-6-tips-writing-strong-abstract/)
 October 21 | 8 | How to read a paper - Qual | Alexander SA, Frohlich KL, Fusco C. (2014). Problematizing “play-for-health” discourses through children’s photo-elicited narratives. Qualitative Health Research, 24(10): 1239-1241. [http://qhr.sagepub.com/content/24/10/1329.long](http://qhr.sagepub.com/content/24/10/1329.long)  
-October 28 | 9 | TBD | TBD 
+October 28 | 9 | Resume and CV Session | NA 
 November 4 | 10 | Lightning Talks - Second Years | Bourne PE (2007) Ten Simple Rules for Making Good Oral Presentations. PLoS Comput Biol 3(4): e77. [https://doi.org/10.1371/journal.pcbi.0030077](https://doi.org/10.1371/journal.pcbi.0030077)  | 
 November 11 | 11 | Lightning Talks - Second Years | NA 
 November 18 | 12 | TBD | NA 
@@ -59,8 +59,8 @@ January 20 | 3 | Seminar Take Over - First years | TBD
 January 27 | 4 | Seminar Take Over - First years | TBD
 February 3 | 5 | Seminar Take Over - First years | TBD 
 February 10 | 6 | Seminar Take Over - First years | TBD
-February 17 | 7 | Reading Week | TBD 
-February 24 | 8 | TBD | TBD 
+February 17 | 7 | Reading Week | NA 
+February 24 | 8 | Conference Boot Camp | [https://www.insidehighered.com/blogs/gradhacker/preparing-conferences](https://www.insidehighered.com/blogs/gradhacker/preparing-conferences)
 March 2 | 9 | TBD | TBD 
 March 9 | 10 | TBD | TBD 
 March 16 | 11 | When I grow up | [https://www.mun.ca/student/about/career-development-contact.php](https://www.mun.ca/student/about/career-development-contact.php)
@@ -79,8 +79,8 @@ Date | Week | Topic | Readings
  | 7 | TBD | TBD 
  | 8 | TBD | TBD 
  | 9 | TBD | TBD 
- | 10 | TBD | TBD 
- | 11 | TBD | TBD 
+ | 10 | Lightning Talks - Second Years | NA 
+ | 11 | Lightning Talks - Second Years | NA 
  | 12 | TBD | TBD
 
 
@@ -90,10 +90,10 @@ Date | Week | Topic | Readings
 ---- | ---- | ----- | -------- 
  | 1 |  TBD| TBD 
  | 2 | TBD | TBD 
- | 3 | TBD | TBD
- | 4 | TBD | TBD
- | 5 | TBD | TBD 
- | 6 | TBD | TBD 
+ | 3 | Seminar Take Over - First years | TBA
+ | 4 | Seminar Take Over - First years | TBA
+ | 5 | Seminar Take Over - First years | TBA 
+ | 6 | Seminar Take Over - First years | TBA 
  | 7 | TBD | TBD 
  | 8 | TBD | TBD 
  | 9 | TBD | TBD 
