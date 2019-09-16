@@ -17,8 +17,8 @@
 
 ## Required Online Courses
 
-1. CIHR sex and gender learning module (http://www.cihr-irsc.gc.ca/e/49347.html)
-2. Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans  (https://tcps2core.ca/welcome)
+1. CIHR sex and gender learning module [http://www.cihr-irsc.gc.ca/e/49347.html](http://www.cihr-irsc.gc.ca/e/49347.html)
+2. Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans [https://tcps2core.ca/welcome](https://tcps2core.ca/welcome)
 
 __Note.__ If you have completed the courses please email me the certification document. 
 
