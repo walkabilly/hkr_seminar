@@ -46,8 +46,9 @@ October 18 | 7 | How to write an abstract | Make a Great First Impression: 6 Tip
 October 25 | 8 | How to read a paper - Quant | Lockyer EJ, Hosel K, Nippard AP, Button DC, Power KE. Corticospinal-Evoked Responses from the Biceps Brachii during Arm Cycling across Multiple Power Outputs. Brain Sciences. 2019; 9(8):205. [https://doi.org/10.3390/brainsci9080205](https://doi.org/10.3390/brainsci9080205) 
 November 1 | 9 | How to read a paper - Qual | Alexander SA, Frohlich KL, Fusco C. (2014). Problematizing “play-for-health” discourses through children’s photo-elicited narratives. Qualitative Health Research, 24(10): 1239-1241. [http://qhr.sagepub.com/content/24/10/1329.long](http://qhr.sagepub.com/content/24/10/1329.long) 
 November 8 | 10 | Resume and CV Session | NA
-November 15 | 11 | Lightning Talks - Second Years | Bourne PE (2007) Ten Simple Rules for Making Good Oral Presentations. PLoS Comput Biol 3(4): e77. [https://doi.org/10.1371/journal.pcbi.0030077](https://doi.org/10.1371/journal.pcbi.0030077) | NA 
-November 22 | 12 | Lightning Talks - Second Years  | NA 
+November 15 | 11 | CRC Presentations and Networking  | NA 
+November 22 | 12 | Lightning Talks - Second Years | Bourne PE (2007) Ten Simple Rules for Making Good Oral Presentations. PLoS Comput Biol 3(4): e77. [https://doi.org/10.1371/journal.pcbi.0030077](https://doi.org/10.1371/journal.pcbi.0030077) | NA 
+
 
 ## Term 2
 
