@@ -22,6 +22,10 @@
 
 __Note.__ If you have completed the courses please email me the certification document. 
 
+## Roles and Responsbilities
+
+You can the find the Memorial University Grad Student and Supervisor Roles and Responsibilities document [here](https://github.com/walkabilly/hkr_seminar/blob/master/roles_responsibilities.md).
+
 ## What if I miss Seminar? 
 
 If you miss a seminar you can make up the session in one of 3 different ways. 
@@ -34,20 +38,20 @@ __Note.__ Despite having all of these methods to make up seminar attendance, it 
 
 ## Term 1
 
-Date | Week | Topic | Readings 
----- | ---- | ----- | -------- 
-September 6 | 1 | PIZZA!!! | NA 
-September 13 | 2 | Ethics Visit | NA 
-September 20 | 3 | Grad Studenting | Markowetz F. You Are Not Working For Me; I Am Working With you. PLOS Computational Biology. 2015 [https://doi.org/10.1371/journal.pcbi.1004387](https://doi.org/10.1371/journal.pcbi.1004387). 
-September 27 | 4 | Global Climate Strike | [https://act.350.org/event/globalclimatestrike/18772?](https://act.350.org/event/globalclimatestrike/18772?)
-October 4 | 5 | Scholarship Applications | [https://www.mun.ca/sgs/current/funding/fundinginfo.php](https://www.mun.ca/sgs/current/funding/fundinginfo.php)
-October 11 | 6 | Poster Critique | Erren, T. C., & Bourne, P. E. (2007). Ten simple rules for a good poster presentation. PLoS computational biology, 3(5), e102. [https://doi.org/10.1371/journal.pcbi.0030102](https://doi.org/10.1371/journal.pcbi.0030102) 
-October 18 | 7 | How to write an abstract | Make a Great First Impression: 6 Tips for Writing a Strong Abstract [https://www.aje.com/arc/make-great-first-impression-6-tips-writing-strong-abstract/](https://www.aje.com/arc/make-great-first-impression-6-tips-writing-strong-abstract/)
-October 25 | 8 | How to read a paper - Quant | Lockyer EJ, Hosel K, Nippard AP, Button DC, Power KE. Corticospinal-Evoked Responses from the Biceps Brachii during Arm Cycling across Multiple Power Outputs. Brain Sciences. 2019; 9(8):205. [https://doi.org/10.3390/brainsci9080205](https://doi.org/10.3390/brainsci9080205) 
-November 1 | 9 | How to read a paper - Qual | Alexander SA, Frohlich KL, Fusco C. (2014). Problematizing “play-for-health” discourses through children’s photo-elicited narratives. Qualitative Health Research, 24(10): 1239-1241. [http://qhr.sagepub.com/content/24/10/1329.long](http://qhr.sagepub.com/content/24/10/1329.long) 
-November 8 | 10 | Resume and CV Session | NA
-November 15 | 11 | CRC Presentations and Networking  | NA 
-November 22 | 12 | Lightning Talks - Second Years | Bourne PE (2007) Ten Simple Rules for Making Good Oral Presentations. PLoS Comput Biol 3(4): e77. [https://doi.org/10.1371/journal.pcbi.0030077](https://doi.org/10.1371/journal.pcbi.0030077) | NA 
+Date | Week | Topic | Readings | Slides
+---- | ---- | ----- | -------- | -----
+September 6 | 1 | PIZZA!!! | NA | NA
+September 13 | 2 | Ethics Visit | NA | NA
+September 20 | 3 | Grad Studenting | Markowetz F. You Are Not Working For Me; I Am Working With you. PLOS Computational Biology. 2015 [https://doi.org/10.1371/journal.pcbi.1004387](https://doi.org/10.1371/journal.pcbi.1004387). | NA
+September 27 | 4 | Global Climate Strike | [https://act.350.org/event/globalclimatestrike/18772?](https://act.350.org/event/globalclimatestrike/18772?) | NA
+October 4 | 5 | Scholarship Applications | [https://www.mun.ca/sgs/current/funding/fundinginfo.php](https://www.mun.ca/sgs/current/funding/fundinginfo.php) | TBC
+October 11 | 6 | Poster Critique | Erren, T. C., & Bourne, P. E. (2007). Ten simple rules for a good poster presentation. PLoS computational biology, 3(5), e102. [https://doi.org/10.1371/journal.pcbi.0030102](https://doi.org/10.1371/journal.pcbi.0030102) | NA
+October 18 | 7 | How to write an abstract | Make a Great First Impression: 6 Tips for Writing a Strong Abstract [https://www.aje.com/arc/make-great-first-impression-6-tips-writing-strong-abstract/](https://www.aje.com/arc/make-great-first-impression-6-tips-writing-strong-abstract/) | NA
+October 25 | 8 | How to read a paper - Quant | Lockyer EJ, Hosel K, Nippard AP, Button DC, Power KE. Corticospinal-Evoked Responses from the Biceps Brachii during Arm Cycling across Multiple Power Outputs. Brain Sciences. 2019; 9(8):205. [https://doi.org/10.3390/brainsci9080205](https://doi.org/10.3390/brainsci9080205) | [Slides](https://github.com/walkabilly/hkr_seminar/blob/master/read_a_paper.md)
+November 1 | 9 | How to read a paper - Qual | Alexander SA, Frohlich KL, Fusco C. (2014). Problematizing “play-for-health” discourses through children’s photo-elicited narratives. Qualitative Health Research, 24(10): 1239-1241. [http://qhr.sagepub.com/content/24/10/1329.long](http://qhr.sagepub.com/content/24/10/1329.long) | [Slides](https://github.com/walkabilly/hkr_seminar/blob/master/read_a_paper.md) 
+November 8 | 10 | Resume and CV Session | NA | NA
+November 15 | 11 | CRC Presentations and Networking  | NA | NA
+November 22 | 12 | Lightning Talks - Second Years | Bourne PE (2007) Ten Simple Rules for Making Good Oral Presentations. PLoS Comput Biol 3(4): e77. [https://doi.org/10.1371/journal.pcbi.0030077](https://doi.org/10.1371/journal.pcbi.0030077) | NA | NA
 
 
 ## Term 2
