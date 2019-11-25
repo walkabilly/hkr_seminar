@@ -65,7 +65,7 @@ February 7 | 5 | Seminar Take Over - First years | TBD
 February 14 | 6 | Seminar Take Over - First years | TBD
 February 21 | 7 | Reading Week | NA 
 February 28 | 8 | Conference Boot Camp | [https://www.insidehighered.com/blogs/gradhacker/preparing-conferences](https://www.insidehighered.com/blogs/gradhacker/preparing-conferences)
-March 6 | 9 | TBD | TBD 
+March 6 | 9 | Intercultural Conflict Style Inventory | Special Seminar 12-2pm 
 March 13 | 10 |  Iranian, German and Canadian academic experiences | TBD 
 March 20 | 11 | When I grow up | [https://www.mun.ca/student/about/career-development-contact.php](https://www.mun.ca/student/about/career-development-contact.php)
 March 27 | 12 | What I learned  | TBD 
