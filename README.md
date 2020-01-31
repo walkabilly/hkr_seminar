@@ -66,7 +66,7 @@ February 14 | 6 | Seminar Take Over - A'z | Grad Studenting NL Edition
 February 21 | 7 | Reading Week | NA 
 February 28 | 8 | Seminar Take Over - Name TBD | Psych of Learning
 March 6 | 9 | Intercultural Conflict Style Inventory | Special Seminar 12-2pm 
-March 13 | 10 |  Iranian, German and Canadian academic experiences | TBD 
+March 13 | 10 |  Iranian, German and Canadian academic experiences / Conference Bootcamp??? | TBD 
 March 20 | 11 | Seminar Take Over - Name TBD | Communication
 March 27 | 12 | Lightning Talks - Second Years | Bourne PE (2007) Ten Simple Rules for Making Good Oral Presentations. PLoS Comput Biol 3(4): e77. [https://doi.org/10.1371/journal.pcbi.0030077](https://doi.org/10.1371/journal.pcbi.0030077) | NA
 
