@@ -59,15 +59,15 @@ Date | Week | Topic | Readings
 ---- | ---- | ----- | -------- 
 January 10 | 1 | How to read a paper - Quant | Fuller, D., Gauvin, L., Kestens, Y., Morency, P., Daniel, M., & Drouin, L. Impact evaluation of a public bicycle share program on cycling: A case example of BIXI in Montreal, Canada. American Journal of Public Health 103(3):e85-92. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3673500/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3673500/)
 January 17 | 2 | #SNOWMAGGEDON
-January 24 | 3 | How to read a paper - Qual | Marconnot, R.; Marín-Rojas, A.L.; Delfa-de-la-Morena, J.M.; Pérez-Corrales, J. et al. Recognition of Barriers to Physical Activity Promotion in Immigrant Children in Spain: A Qualitative Case Study. Int. J. Environ. Res. Public Health 2019, 16, 431.  [https://doi.org/10.3390/ijerph16030431](https://doi.org/10.3390/ijerph16030431)
-January 31 | 4 | Seminar Take Over - First years | TBD
-February 7 | 5 | Seminar Take Over - First years | TBD 
-February 14 | 6 | Conference Boot Camp | [https://www.insidehighered.com/blogs/gradhacker/preparing-conferences](https://www.insidehighered.com/blogs/gradhacker/preparing-conferences)
+January 24 | 3 | #SNOWMAGGEDON
+January 31 | 4 | How to read a paper - Qual | Marconnot, R.; Marín-Rojas, A.L.; Delfa-de-la-Morena, J.M.; Pérez-Corrales, J. et al. Recognition of Barriers to Physical Activity Promotion in Immigrant Children in Spain: A Qualitative Case Study. Int. J. Environ. Res. Public Health 2019, 16, 431.  [https://doi.org/10.3390/ijerph16030431](https://doi.org/10.3390/ijerph16030431)
+February 7 | 5 | Seminar Take Over - Name TBD | Mental Health 
+February 14 | 6 | Seminar Take Over - A'z | Grad Studenting NL Edition 
 February 21 | 7 | Reading Week | NA 
-February 28 | 8 | Seminar Take Over - First years | TBD
+February 28 | 8 | Seminar Take Over - Name TBD | Psych of Learning
 March 6 | 9 | Intercultural Conflict Style Inventory | Special Seminar 12-2pm 
 March 13 | 10 |  Iranian, German and Canadian academic experiences | TBD 
-March 20 | 11 | Seminar Take Over - First years | TBD
+March 20 | 11 | Seminar Take Over - Name TBD | Communication
 March 27 | 12 | Lightning Talks - Second Years | Bourne PE (2007) Ten Simple Rules for Making Good Oral Presentations. PLoS Comput Biol 3(4): e77. [https://doi.org/10.1371/journal.pcbi.0030077](https://doi.org/10.1371/journal.pcbi.0030077) | NA
 
 ## Term 3 
