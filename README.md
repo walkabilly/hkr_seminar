@@ -70,7 +70,7 @@ March 13 | 10 |  Iranian, German and Canadian academic experiences | TBD
 March 20 | 11 | Seminar Take Over - First years | TBD
 March 27 | 12 | Lightning Talks - Second Years | Bourne PE (2007) Ten Simple Rules for Making Good Oral Presentations. PLoS Comput Biol 3(4): e77. [https://doi.org/10.1371/journal.pcbi.0030077](https://doi.org/10.1371/journal.pcbi.0030077) | NA
 
-## Term 3
+## Term 3 
 
 Date | Week | Topic | Readings 
 ---- | ---- | ----- | -------- 
